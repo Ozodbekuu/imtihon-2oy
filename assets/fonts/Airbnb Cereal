@@ -1,0 +1,5 @@
+flutter:
+  fonts:
+    - family: AirbnbCereal
+      fonts:
+        - asset: assets/fonts/AirbnbCereal-Bold.ttf
